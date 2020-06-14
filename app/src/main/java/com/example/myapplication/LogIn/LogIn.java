@@ -39,6 +39,7 @@ public class LogIn extends AppCompatActivity {
     }
 
     public Connection conexionBD(){
+        //culo
         Connection conexion=null;
         try{
             StrictMode.ThreadPolicy policy= new StrictMode.ThreadPolicy.Builder().permitAll().build();
